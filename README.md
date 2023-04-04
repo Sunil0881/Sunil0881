@@ -2,9 +2,9 @@
 <h1 align="center">Hi 👋, I'm Sunil</h1>
 <h3 align="center">Passionate for innovation, A boy trying to figure-out stuff!!</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=karthik242002&label=Profile%20views&color=0e75b6&style=flat" alt="Sunil" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Sunil0881&label=Profile%20views&color=0e75b6&style=flat" alt="Sunil" /> </p>
 <a href="#Sunil-title">
-  <img src="https://github-readme-stats.vercel.app/api?username=Manikandan&show_icons=true&theme=react&count_private=true&include_all_commits=true" alt="Sunil" align="right" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sunil0881&show_icons=true&theme=react&count_private=true&include_all_commits=true" alt="Sunil" align="right" />
 </a>
 
 - 👋 Hi, I’m @Sunil0881
