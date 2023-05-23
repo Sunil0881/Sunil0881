@@ -227,11 +227,11 @@ Here are some 🦜 Party Parrots:
 <table align="center">
   <tr>
     <td align="center" width="1000">
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=manicdon7&show_icons=true&locale=en&layout=compact" alt="Sunil0881" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sunil0881&show_icons=true&locale=en&layout=compact" alt="Sunil0881" /></p>
 </td>
 <tr>
     <td align="center" width="1000">
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manicdon7&show_icons=true&locale=en" alt="Sunil0881" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Sunil0881&show_icons=true&locale=en" alt="Sunil0881" /></p>
 </td>
 <tr>
     <td align="center" width="1000">
